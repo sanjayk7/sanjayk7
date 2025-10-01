@@ -1,4 +1,29 @@
+💻 About Me
+🚀 Passionate Java Full Stack Developer | 🎨 Frontend Developer | 🧑‍💻 Programmer | 🐍 Python | MERN
 
+✨ I enjoy building scalable, user-friendly, and visually appealing web applications. From designing smooth UI/UX interfaces to writing clean and efficient backend code, I bring ideas to life with technology.
+
+🔧 Tech Stack & Skills
+
+🌐 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap ,NPM , typyscript...
+
+⚙️ Backend: Java, Spring Boot, REST APIs
+
+🗄️ Databases: MySQL, MongoDB
+
+🐍 Python Programming
+
+🛠️ Git, GitHub, VS Code and Intellij idea
+
+🎯 What I Do
+
+✅ Build responsive & modern web applications
+
+✅ Develop RESTful APIs & integrate databases
+
+✅ Write clean, maintainable, and optimized code
+
+✅ Solve problems with logical & analytical thinking
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014624955234) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjay_k_yadav______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-kumar78) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sk-status-creator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sanjay.k.seven7190263898@gmail.com) 
 
