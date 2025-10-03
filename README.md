@@ -1,5 +1,6 @@
 💻 About Me
-🚀 Passionate Java Full Stack Developer | 🎨 Frontend Developer | 🧑‍💻 Programmer | 🐍 Python | MERN
+
+🚀 Passionate Java Full Stack Developer | 🎨 Frontend Developer | 🧑‍💻 Programmer | full stack (MERN)
 
 ✨ I enjoy building scalable, user-friendly, and visually appealing web applications. From designing smooth UI/UX interfaces to writing clean and efficient  code, I bring ideas to life with technology.
 
@@ -7,13 +8,14 @@
 
 🌐 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap ,NPM , typyscript...
 
-⚙️ Backend: Java, Spring Boot, REST APIs
+⚙️ Backend: Java, Spring Boot, REST APIs, php 
+   Languages: python , java , c , c++   
 
-🗄️ Databases: MySQL, MongoDB
+🗄️ Databases: MySQL, MongoDB,  SQlite 
 
 🐍 Python Programming
 
-🛠️ Git, GitHub, VS Code and Intellij idea
+🛠️ Git, GitHub, VS Code and Intellij idea ,Eclipse ,netBeans  
 
 🎯 What I Do
 
