@@ -1,6 +1,6 @@
 💻 About Me
 
-🚀 Passionate Java Full Stack Developer | 🎨 Frontend Developer | 🧑‍💻 Programmer | full stack (MERN)
+🚀Java Full Stack Developer | 🎨 Frontend Developer | full stack (MERN)
 
 ✨ I enjoy building scalable, user-friendly, and visually appealing web applications. From designing smooth UI/UX interfaces to writing clean and efficient  code, I bring ideas to life with technology.
 
