@@ -14,7 +14,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 
 <p align="center">
   <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
-    <img src="https://raw.githubusercontent.com/your-username/repo-name/main/frontend_dev.gif" width="600" alt="Project Demo"/>
+    <img src="https:frontend_dev.gif" width="600" alt="Project Demo"/>
   </a>
 </p>
 
