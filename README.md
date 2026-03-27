@@ -35,7 +35,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
    **frontend** = Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ... <br>
    **Backend** = PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|... <br>
    **Tools** = vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje |netlify|    vercel... <br>
-   **Full stack** =html | css | js | jquery | php | mysql | bootsrtap |ajax 
+   **Full stack** =html | css | js | jquery | php | mysql | bootsrtap |ajax <br>
    **Database** = Mysql | Sqlite | Postgresql | MongoDb |... <br>
    **Frameworks** = Bootsrap | Tailwind ...
 
@@ -67,9 +67,9 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a> </p>
   <br>
-  <a src="https://Instgram.com/sanjay_k_yadav_______"> Instsgrsm</a> 
+  <a src="https://instagram.com/sanjay_k_yadav_______"> Instagram</a> 
   |
-  <a src="https://Facebook.com/Sanjay Kumar Yadav">Facebook</a>
+  <a src="https://facebook.com/Sanjay Kumar Yadav">Facebook</a>
   
 
 ## 🧾 Resume
