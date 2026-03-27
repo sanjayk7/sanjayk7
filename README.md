@@ -65,11 +65,16 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
   </a>
   <a href="https://github.com/sanjayk7">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a> </p>
-  <br>
-  <a src="https://instagram.com/sanjay_k_yadav_______"> Instagram</a> 
-  |
-  <a src="https://facebook.com/Sanjay Kumar Yadav">Facebook</a>
+  </a>
+   <a href="https://www.instagram.com/sanjay_k_yadav_______/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/Sanjay Kumar Yadav/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a
+</p>
+>
   
 
 ## 🧾 Resume
