@@ -12,8 +12,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 🎬 BUILDING PORTFOLIO...
 <p align="center">
   <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
-    <img src="<img width="984" height="323" alt="frontend_dev" src="https://github.com/user-attachments/assets/b24f032c-ba4a-4a1a-ba6f-7ca45f354de2" />
-" alt="Project Demo"
+    <img src="<img width="984" height="323" alt="frontend_dev.png" alt="portfolio"
   </a>
 
 <p align="center">
