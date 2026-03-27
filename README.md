@@ -1,29 +1,112 @@
+<h1 align="center">Hi 👋, I'm Sanjay Kumar </h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjay kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjay_k_yadav_______) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-kumar78) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ai-sk-status-creator) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sanjay Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sanjay.k.seven7190263898@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;React+Learner;Building+Real+Projects;Open+to+Work+🚀" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjayk7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjayk7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayk7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjayk7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjayk7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">🚀 BCA | Aspiring Full Stack Developer | Open to Opportunities</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjayk7&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sanjayk440) 
+## 👨‍💻 About Me
 
-  
+* 🎓 BCA |  MSITM Degree College  Gonda |
+* 💻 Focused on **Frontend + MERN Stack Development** And HTML ,CSS ,JS ,BOOTSTRAP/Tailwind ,React responsive ,animation
+* 🌱 I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
+* 🎯 Goal: Get placed as a **Web Developer / MERN Developer**
+* 💼 Open for **Internships & Freelance Work (Upwork)**
+* ⚡ I build **responsive, clean & user-friendly websites**
 
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,intellije,netbeans,ecllipse,sublimetext,notepad++,figma,canva,photoshop,corel draw, java python,c ,c++ , node.js, express.js,php,spring," />
+</p>
+
+---
+
+## 💼 Featured Project(Check my repo)
+✔️ Fully Responsive Website
+✔️ Built using HTML, CSS, JavaScript
+✔️ Modern UI Design
+✔️ Beginner-friendly real-world project
+
+🚀 *More advanced MERN projects coming soon...*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* ⚛️ Advanced React (Hooks, Context API)
+* 🌐 REST APIs & Backend (Node.js, Express)
+* 🛢️ MongoDB Database
+* 🔐 Authentication (JWT)
+* 🚀 Full MERN Projects
+* I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjay-kumar78">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sanjaykseven7190263898@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/sanjayk7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a src="https://Instgram.com/sanjay_k_yadav_______"> Instsgrsm</a>
+  <a src="https://Facebook.com/Sanjay Kumar Yadav"> Facebook</a>
+</p>
+
+---
+
+## 🧾 Resume
+
+📄 MY Resume :
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+  <b>"I don't just write code, I build solutions that solve real problems."</b>
+  <b>"Loving coding "</b>
+  <b>" Always Keep Learning New Things..."</b>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=blue&style=flat" />
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
