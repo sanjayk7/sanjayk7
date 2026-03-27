@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;React+Learner;Building+Real+Projects;Open+to+Work+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;Frontend+Developer;Building+Real+Projects;Open+to+Work+🚀" />
 </p>
 
 <h3 align="center">🚀 BCA | Aspiring Full Stack Developer | Open to Opportunities</h3>
@@ -23,9 +23,6 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,intellije,netbeans,ecllipse,sublimetext,notepad++,figma,canva,photoshop,corel draw, java python,c ,c++ , node.js, express.js,php,spring," />
-</p>
 
 ---
 
