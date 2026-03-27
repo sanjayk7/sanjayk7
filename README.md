@@ -9,7 +9,18 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://www.instagram.com/reel/DWOEugOkSX_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="/>
+<img align="right" alt="coding" width="320" src="## 🎬 Project Demo
+
+<p align="center">
+  <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="600" alt="Project Demo"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Click above to watch demo
+</p>
+"/>
 
 ## 👨‍💻 About Me
 
