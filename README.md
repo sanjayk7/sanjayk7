@@ -23,39 +23,25 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 ---
 
 ## 🚀 Tech Stack
-  frontend : Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ...
-   Backend : PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|...
-   Tools   : vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje                      |netlify|    vercel...
+  frontend : Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ... <br>
+   Backend : PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|... <br>
+   Tools   : vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje |netlify|    vercel... <br>
    Full stack: html | css | js | jquery | php | mysql | bootsrtap |ajax 
-   Database : Mysql | Sqlite | Postgresql | MongoDb |...
+   Database : Mysql | Sqlite | Postgresql | MongoDb |... <br>
    Frameworks: Bootsrap | Tailwind ...
 
 ## 💼 Featured Project(Check my repo)
-✔️ Fully Responsive Website
-✔️ Built using HTML, CSS, JavaScript
-✔️ Modern UI Design
-✔️React developer
-✔️ Beginner-friendly real-world project
+✔️ Fully Responsive Website <br>
+✔️ Built using HTML, CSS, JavaScript <br>
+✔️ Modern UI Design <br>
+✔️React developer <br>
+✔️ Beginner-friendly real-world project <br>
 
 🚀 *advanced MERN projects coming soon...*
 
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-* ⚛️ Advanced React (Hooks, Context API)
-* 🌐 REST APIs & Backend (Node.js, Express)
-* 🛢️ MongoDB Database
-* 🔐 Authentication (JWT)
-* 🚀 Full MERN Projects
-* I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC          DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
+## 🧠 Currently Learning🚀
+** I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
 
 
 
@@ -72,11 +58,10 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a> </p>
   <br>
-  <a src="https://Instgram.com/sanjay_k_yadav_______"> Instsgrsm</a>
+  <a src="https://Instgram.com/sanjay_k_yadav_______"> Instsgrsm</a> 
+  |
   <a src="https://Facebook.com/Sanjay Kumar Yadav">Facebook</a>
-
-
----
+  
 
 ## 🧾 Resume
 
