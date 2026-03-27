@@ -9,7 +9,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://www.instagram.com/reel/DWOEugOkSX_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="/>
 
 ## 👨‍💻 About Me
 
