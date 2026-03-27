@@ -74,7 +74,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a
 </p>
->
+
   
 
 ## 🧾 Resume
