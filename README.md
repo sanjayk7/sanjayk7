@@ -12,9 +12,8 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 🎬 BUILDING PORTFOLIO...
 <p align="center">
   <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
-   <img src="https://raw.githubusercontent.com/your-username/repo-name/main/frontend_dev.gif" width="600"/> play 
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="600" alt="Project Demo"/>
   </a>
-</p>
 
 <p align="center">
   ▶️ Click to watch full demo on Instagram
@@ -33,12 +32,12 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 ---
 
 ## 🚀 Tech Stack
-  frontend : Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ... <br>
-   Backend : PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|... <br>
-   Tools   : vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje |netlify|    vercel... <br>
-   Full stack: html | css | js | jquery | php | mysql | bootsrtap |ajax 
-   Database : Mysql | Sqlite | Postgresql | MongoDb |... <br>
-   Frameworks: Bootsrap | Tailwind ...
+   **frontend** = Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ... <br>
+   **Backend** = PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|... <br>
+   **Tools** = vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje |netlify|    vercel... <br>
+   **Full stack** =html | css | js | jquery | php | mysql | bootsrtap |ajax 
+   **Database** = Mysql | Sqlite | Postgresql | MongoDb |... <br>
+   **Frameworks** = Bootsrap | Tailwind ...
 
 ## 💼 Featured Project(Check my repo)
 ✔️ Fully Responsive Website <br>
