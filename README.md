@@ -9,8 +9,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 
 ---
 
-<img align="right" alt="coding" width="320" src="## 🎬 Project Demo
-
+🎬 BUILDING PORTFOLIO...
 <p align="center">
   <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
     <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="600" alt="Project Demo"/>
