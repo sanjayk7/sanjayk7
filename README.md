@@ -87,7 +87,7 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 <p align="center">
   <b>"I don't just write code, I build solutions that solve real problems."</b> <br>
   <b>"Loving coding "</b> <br>
-  <b>" Always Keep Learning New Things..."</b>
+  <b>" Always keep learning and building new Things..."</b>
 </p>
 
 ---
