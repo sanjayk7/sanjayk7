@@ -10,16 +10,18 @@ NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY
 ---
 
 🎬 BUILDING PORTFOLIO...
+## 🎬 Project Demo
+
 <p align="center">
-  <a href="https:frontend_dev.gif"
-  alt="Project Demo"/>
+  <a href="https://www.instagram.com/reel/DWOEugOkSX_/">
+    <img src="https://raw.githubusercontent.com/your-username/repo-name/main/frontend_dev.gif" width="600" alt="Project Demo"/>
   </a>
 </p>
 
 <p align="center">
-  ▶️ Click above to watch demo
+  ▶️ Click to watch full demo on Instagram
 </p>
-"/>
+
 
 ## 👨‍💻 About Me
 
