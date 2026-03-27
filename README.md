@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjay Kumar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;Frontend+Developer;Building+Real+Projects;Open+to+Work+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Ract+Developer;Frontend+Developer;Building+Real+Projects;Open+to+Work+🚀" />
 </p>
+NOW: OPEN TO WORK AS A FRONTEND DEVELOPER ONLY 
 
-<h3 align="center">🚀 BCA | Aspiring Full Stack Developer | Open to Opportunities</h3>
+<h3 align="center">🚀 BCA | Aspiring Full Stack Developer |JAVA FULL STACK |SOFTWARE ENIGINEER | Open to Opportunities</h3>
 
 ---
 
@@ -13,37 +14,31 @@
 ## 👨‍💻 About Me
 
 * 🎓 BCA |  MSITM Degree College  Gonda |
-* 💻 Focused on **Frontend + MERN Stack Development** And HTML ,CSS ,JS ,BOOTSTRAP/Tailwind ,React responsive ,animation
+* 💻 Focused on **Frontend + MERN Stack Development**
 * 🌱 I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
-* 🎯 Goal: Get placed as a **Web Developer / MERN Developer**
+* 🎯 Goal: Get placed as a **Frontend Developer/ Backend Developer/ MERN Developer / Software engineer**
 * 💼 Open for **Internships & Freelance Work (Upwork)**
 * ⚡ I build **responsive, clean & user-friendly websites**
 
 ---
 
 ## 🚀 Tech Stack
-
-
----
+  frontend : Html | css| js | bootstrap | Tailwind | responsiveness | React.js |Animation ...
+   Backend : PHP| JAVA | Spring | Python | C | C++ |Node.js| exerpress.js|...
+   Tools   : vs code | git and github | ecllipse | notepad++| notepad| sublime |Intellje                      |netlify|    vercel...
+   Full stack: html | css | js | jquery | php | mysql | bootsrtap |ajax 
+   Database : Mysql | Sqlite | Postgresql | MongoDb |...
+   Frameworks: Bootsrap | Tailwind ...
 
 ## 💼 Featured Project(Check my repo)
 ✔️ Fully Responsive Website
 ✔️ Built using HTML, CSS, JavaScript
 ✔️ Modern UI Design
+✔️React developer
 ✔️ Beginner-friendly real-world project
 
-🚀 *More advanced MERN projects coming soon...*
+🚀 *advanced MERN projects coming soon...*
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -60,9 +55,9 @@
 * 🛢️ MongoDB Database
 * 🔐 Authentication (JWT)
 * 🚀 Full MERN Projects
-* I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
+* I’m currently learning **MERN STACK | JAVA FULL STACK |PYTHON | C | C++ | CLOUD COMPUTING |PHP | DSA |CONTENT CREATION | GRAPHIC          DESINING | PHOTOSHOP | COREL DRAW | MS OFFICE |PHOTOPEA | FREELANCING |BUSINESS| REAL WORD PROBLEM SOLOVING ...**
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -75,10 +70,11 @@
   </a>
   <a href="https://github.com/sanjayk7">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
+  </a> </p>
+  <br>
   <a src="https://Instgram.com/sanjay_k_yadav_______"> Instsgrsm</a>
-  <a src="https://Facebook.com/Sanjay Kumar Yadav"> Facebook</a>
-</p>
+  <a src="https://Facebook.com/Sanjay Kumar Yadav">Facebook</a>
+
 
 ---
 
@@ -91,8 +87,8 @@
 ## 💡 Developer Mindset
 
 <p align="center">
-  <b>"I don't just write code, I build solutions that solve real problems."</b>
-  <b>"Loving coding "</b>
+  <b>"I don't just write code, I build solutions that solve real problems."</b> <br>
+  <b>"Loving coding "</b> <br>
   <b>" Always Keep Learning New Things..."</b>
 </p>
 
